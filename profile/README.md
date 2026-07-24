@@ -87,6 +87,14 @@ Python Worker (FastAPI)
 
 ORBIT은 `pnpm` workspace와 Turborepo 기반 모노레포로 구성되어 있으며, 로컬에서는 Docker Compose로 Web, API, Worker, Python Worker, PostgreSQL, Redis와 MinIO를 함께 실행할 수 있습니다.
 
+<div align="center">
+  <img
+    src="./orbit-poster.jpg"
+    alt="ORBIT 프로젝트 포스터"
+    width="900"
+  />
+</div>
+
 ## 🛠️ 기술 스택
 
 <div align="center">
